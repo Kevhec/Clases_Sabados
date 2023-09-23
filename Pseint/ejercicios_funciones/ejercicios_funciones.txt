@@ -1,0 +1,13 @@
+1. Crear un algoritmo que implemente un subproceso cuya función sea la de sumar dos números recibidos como parámetros y entregar el resultado de la suma.
+
+2. Desarrollar un seudocódigo con PseInt y el uso de funciones, que calcule el
+área de un circulo, conociendo su perímetro.
+
+3. Escribir el números de palabras a ingresar y mostrar el numero de caracteres de cada palabra.
+
+4. Mostrar los perímetros de 5 figuras geométricas.
+
+5. Escribe una función en pseudocódigo que devuelva el factorial de un número N (siendo N un número entero positivo). Haz después un algoritmo principal que pida por teclado dos números y escriba en pantalla los factoriales de cada número
+
+
+Investigar fibonacci
