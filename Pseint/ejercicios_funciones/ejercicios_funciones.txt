@@ -9,5 +9,4 @@
 
 5. Escribe una función en pseudocódigo que devuelva el factorial de un número N (siendo N un número entero positivo). Haz después un algoritmo principal que pida por teclado dos números y escriba en pantalla los factoriales de cada número
 
-
 Investigar fibonacci
